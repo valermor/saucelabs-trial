@@ -1,2 +1,3 @@
-p-ages
-PyHamcrest
+p-ages==1.0.1
+PyHamcrest==1.8.5
+selenium==2.51.1
